@@ -22,6 +22,6 @@ __4__ Solving for Equilibria
 
 Utilizing the supply and demand curves we have calculated, we solved the system of equations to find equilibrium within the market. 
 
-__5__
+__5__ Introducing a Tax
 
 Lastly, we calculated the demand curve after the occupancy tax had taken effect so we could compare whether this had an impact on rentals within our data. We also concisdered the types economic incidences which would result from this. (*note: we had recieved an updated graph as the one within the project for question 5.3 itself was not correct*). We saw that there did appear that the effect of the tax grew as price of rentals went down, indicating that it did hamper bookings, but we were not able to rule out confounding factors which could have been the cause for a decrease in demand.  
